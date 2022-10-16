@@ -2,7 +2,7 @@
 "events": [ 
   {
     "Name": "Sri Lanka vs Namibia",
-    "Url": "https://bighra.crik.live/Events/t20.json",
+    "Url": "Events/t20.json",
     "ImageUrl": "https://assets.crik.live/Events/t20.jpg"
       }
     ],
